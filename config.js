@@ -57,6 +57,7 @@ global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1'
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.dbase = 'mongodb+srv://sohamasodekar:Soham@1234@cluster0.gh0mdj7.mongodb.net/?retryWrites=true&w=majority'
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
